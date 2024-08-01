@@ -3,6 +3,6 @@
 conda create -n wineq python=3.7 -y
 '''
 #### activate env
-''' bash
+``` bash
 conda activate wineq
-'''
+```
